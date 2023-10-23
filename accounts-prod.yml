@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to Pbukki accounts related prod APIs "
+  message: "Welcome to Pbukki accounts related production APIs "
   contactDetails:
     name: "Philip Bukki - Product Owner"
     email: "{cipher}b230068ec2a23ad4ba92c9d6333baae469ca4cfd417b028a48cb2088c8be02b743cd57b0917a6b1c13a63a232ab09a0e"
