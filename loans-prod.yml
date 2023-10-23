@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to Pbukki loans related prod APIs "
+  message: "Welcome to Pbukki loans related production APIs "
   contactDetails:
     name: "Philip Bukki - Product Owner"
     email: "phil.bukki@gmail.com"
