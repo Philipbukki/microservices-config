@@ -1,0 +1,15 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Pbukki accounts related prod APIs "
+  contactDetails:
+    name: "Philip Bukki - Product Owner"
+    email: "phil.bukki@gmail.com"
+  onCallSupport:
+    - +254-798-335-550
+    - +254-101-080-341
+
+
+
+
