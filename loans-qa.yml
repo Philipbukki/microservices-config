@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to Pbukki loans related qa APIs "
+  message: "Welcome to Pbukki loans related qa webhooks APIs "
   contactDetails:
     name: "Philip Bukki - QA Lead"
     email: "phil.bukki@gmail.com"
