@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 accounts:
-  message: "Welcome to Pbukki accounts related qa APIs "
+  message: "Welcome to Pbukki accounts related qa WebHooks APIs "
   contactDetails:
     name: "Will Smith - QA-Lead"
     email: "will.smith@gmail.com"
